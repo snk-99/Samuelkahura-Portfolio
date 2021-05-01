@@ -45,3 +45,7 @@ HTML
 \*WHEN you resize the page or view the site on various screens and devices.
 
 \*THEN you are presented with a responsive layout that adapts to my viewport.
+
+# Link to Website
+
+https://snk-99.github.io/samuelkahura-portfolio/
